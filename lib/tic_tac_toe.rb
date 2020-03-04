@@ -70,4 +70,10 @@ class TicTacToe
 #ask for input, where they want to move onthe board, nums 1-9
     end
   end
+
+  def won
+
+  end
+
+  
 end
