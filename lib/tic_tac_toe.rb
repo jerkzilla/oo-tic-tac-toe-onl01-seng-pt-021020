@@ -71,7 +71,10 @@ class TicTacToe
     end
   end
 
-  def won
+  def won?
+    #retu def won?(want_combo = true)
+    x_moves = Set.new
+    o_moves = Set.new
 
   end
 
